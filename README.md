@@ -62,3 +62,18 @@ If Solver is not visible:
    - Set Solver parameters (objective, decision variables, constraints) (⚙️).
    - Ensure to specify Solver options (e.g., solving method, tolerance) (⚙️).
 
+## Assignment Problems 🔄
+
+## Understanding Assignment Problems 📚
+An assignment problem involves determining the best way to assign agents to tasks, such as:
+
+Assigning workers to offices 🏢👷.
+Assigning factory equipment to jobs 🏭🛠️.
+Assigning teams to projects 🏢👥📂.
+The assignments are on a one-to-one basis, meaning each agent is assigned to one task, and vice versa.
+
+The objective is often to:
+
+Minimize cost 💲.
+Minimize time needed to complete tasks ⏱️.
+Achieve similar optimization goals 🎯.
